@@ -19,7 +19,7 @@ HttpServlet 클래스를 상속받는 서블릿 클래스(MyServlet)를 구현
 
 > 서블릿은 컨테이너에 의해 동작 → 객체의 생성 과정과 종료 과정도 컨테이너 안에서 이루어진다
 
-![alt text](../img/servlet_life_cycle.png)
+![alt text](./img/servlet_life_cycle.png)
 
 ### 서블릿의 특징
 

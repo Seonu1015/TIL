@@ -41,7 +41,7 @@ JSP와 서블릿은 서버 측에서 동적인 콘텐츠를 생성하고 제공�
 
 ### 동작과정
 
-![alt text](<../img/jsp 동작과정.png>)
+![alt text](<./img/jsp 동작과정.png>)
 
 ### JSP 지시어
 
